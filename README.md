@@ -17,7 +17,7 @@ To get started, follow these steps:
 
 1. **Clone the repository**:
     ```sh
-    git clone https://github.com/Saatvi-06/agentic-rag.git
+    git clone https://github.com/Saatvi-06/Agentic-Rag.git
     cd agentic-rag
     ```
 
